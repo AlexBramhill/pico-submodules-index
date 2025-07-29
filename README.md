@@ -6,6 +6,7 @@ Below you'll find links to recommended submodules and instructions for adding, c
 ## Submodules
 - [Event Loop](https://github.com/AlexBramhill/pico-event-loop)
 - [Wifi Manager](https://github.com/AlexBramhill/pico-wifi-manager)
+- [Clock Service](https://github.com/AlexBramhill/pico-clock-service)
 
 ## Working with submodules
 ### Adding to a project
