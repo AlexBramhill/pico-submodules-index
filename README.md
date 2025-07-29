@@ -22,7 +22,6 @@ git submodule update --init --recursive
 This ensures all submodules are fetched and ready to use.
 
 ### Creating from existing project
-### Creating from existing project
 
 To create a submodule from an existing project directory:
 
