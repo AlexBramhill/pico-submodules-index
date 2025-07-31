@@ -4,6 +4,7 @@ This repository provides an index of useful Pico-related submodules to help stre
 Below you'll find links to recommended submodules and instructions for adding, creating, and working with Git submodules in your own projects.
 
 ## Submodules
+- [Displays](https://github.com/AlexBramhill/pico-displays.git)
 - [Event Loop](https://github.com/AlexBramhill/pico-event-loop)
 - [Wifi Manager](https://github.com/AlexBramhill/pico-wifi-manager)
 - [Clock Service](https://github.com/AlexBramhill/pico-clock-service)
